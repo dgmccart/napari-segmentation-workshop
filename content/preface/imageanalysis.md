@@ -19,8 +19,8 @@ As a reference, you may want to review some general concepts commonly used in im
 
 **Segmentation**
 
-- [A general lecture on segmentation](https://www.ibiology.org/techniques/bioimage-analysis/#part-3) by Anne Carpenter from the iBiology Bioimage Analysis course
-
+- [A general lecture on segmentation](https://www.ibiology.org/techniques/bioimage-analysis/#part-3) by Anne Carpenter from the iBiology Bioimage Analysis course.
+  
 **Intro to image filtering and segmentation from Robert Haase**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LT8L3vSLQ2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
