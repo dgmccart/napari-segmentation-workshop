@@ -9,7 +9,7 @@ Successful installation of napari (see [napari installation tutorial](https://ch
 
 The reader is highly encouraged to visit the napari hub to browse available plugins and review their documentation to see if they are suited for your applications. Taking a few minutes to review options to ensure a plugin is right for your intended application can be invaluable in saving time later on. For example, some plugins have specific recommendations for how to install, which may be different from the steps outlined below.
 
-## Plugin Installation Video Tutorial
+## Plugin Installation Video Tutorial 
 
 <script src="https://fast.wistia.com/embed/medias/em0g2n34k7.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_em0g2n34k7 seo=false videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/em0g2n34k7/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 
